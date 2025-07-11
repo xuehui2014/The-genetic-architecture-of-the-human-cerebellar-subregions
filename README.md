@@ -2,19 +2,16 @@
 Code for Deep-learning segmentation enables enhanced genetic discovery of the cerebellar substructure volumes compared to atlas-based registration method 
 
 # Imaging process
-Please see segmentation_cerebnet.sh
 ## Cerebellum segmentation by CerebNet (https://github.com/panania-entelai/FastSurfer-v2.1.2)
 ## Harmonzationt: Combat Harmonization (https://github.com/Jfortin1/ComBatHarmonization)
 ## Quantile normalization: PLINK (https://www.cog-genomics.org/plink/1.9/)
 
 # Genetic process
-Please see genetic_QC.sh
 ## Ancestry: SNPWeights (https://hsph.harvard.edu/research/price-lab/software/)
 ## Genetic PC calculatation: ABCD_GRM.r (https://github.com/robloughnan/ABCD_GeneticPCs_and_Relatedness)
 ## GRM calculation: GCTA-GRM (https://yanglab.westlake.edu.cn/software/gcta/#MakingaGRM)
 
 # Comparison
-Please see comparison.sh
 ## Heritability estimation: GCTA-GREML (https://yanglab.westlake.edu.cn/software/gcta/#GREMLanalysis)
 ## GWAS discovery: GCTA-fastGWA (https://yanglab.westlake.edu.cn/software/gcta/#fastGWA)
 ## Fine-mapping analyses: FINEMAP (http://www.christianbenner.com/index_v1.1.html), GCTA-COJO (https://yanglab.westlake.edu.cn/software/gcta/#COJO)
