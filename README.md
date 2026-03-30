@@ -1,5 +1,5 @@
-# Deep-learning-segmentation-enables-enhanced-genetic-discovery-of-the-cerebellar-substructure-volumes
-Code for Deep-learning segmentation enables enhanced genetic discovery of the cerebellar substructure volumes compared to atlas-based registration method 
+# The genetic architecture of the human cerebellar subregions
+Code for The genetic architecture of the human cerebellar subregions
 
 ## Imaging process
 Cerebellum segmentation by CerebNet (https://github.com/panania-entelai/FastSurfer-v2.1.2)
