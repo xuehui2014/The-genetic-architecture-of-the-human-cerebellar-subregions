@@ -4,9 +4,13 @@ Code for The genetic architecture of the human cerebellar subregions
 ## Imaging process
 
 Cerebellum segmentation by CerebNet (https://github.com/panania-entelai/FastSurfer-v2.1.2)
+
 Isolation Forest method in Matlab (https://ww2.mathworks.cn/help/stats/isolationforest.html)
+
 Harmonzationt: Combat Harmonization (https://github.com/Jfortin1/ComBatHarmonization)
+
 Quantile normalization: PLINK (https://www.cog-genomics.org/plink/1.9/)
+
 
 ## Genetic process
 
