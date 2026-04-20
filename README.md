@@ -1,5 +1,5 @@
-# The genetic architecture of the human cerebellar subregions
-Code for The genetic architecture of the human cerebellar subregions
+# Multi-ancestry genetics of cerebellar subregions pinpoint causal variants and genetic patterns implicating cell types and evolution
+Code for Multi-ancestry genetics of cerebellar subregions pinpoint causal variants and genetic patterns implicating cell types and evolution
 
 ## Imaging process
 
